@@ -1,0 +1,4 @@
+th {padding: 5px; color: red; text-decoration: underline; text-decoration-color: greenyellow; text-decoration-thickness: 5px;}
+            td {padding: 5px; color: blue;}
+            head {text-shadow: 2px; font-size: 18; font-weight: bold; font-family:'Gill Sans'}
+            table {border-color:darkorchid; border-radius: 10px; border-width: 3px; padding: 5px;}
